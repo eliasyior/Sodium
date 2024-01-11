@@ -11,11 +11,7 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-    
         "https://server.flow-works.me/bare/"
-        "/bare1/",
-        "/bare2/",
-        "/bare3/",
     ],
 
     /**

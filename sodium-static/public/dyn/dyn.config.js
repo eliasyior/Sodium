@@ -3,7 +3,8 @@ self.__dynamic$config = {
   encoding: 'xor',
   mode: 'production',
   logLevel: 3,
-  bare: {
+  bare: { 
+    "https://server.flow-works.me/bare/"
     version: 3,
     path: "/bare1/"
   },

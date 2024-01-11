@@ -11,9 +11,8 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        "https://tomp.app"
-        // Not Using a backend? Use this instead of the array below:
-        //"https://server.flow-works.me/bare/"
+    
+        "https://server.flow-works.me/bare/"
         "/bare1/",
         "/bare2/",
         "/bare3/",

@@ -3,9 +3,9 @@ self.__dynamic$config = {
   encoding: 'xor',
   mode: 'production',
   logLevel: 3,
-  bare: "https://server.flow-works.me/bare/" {
+  bare: {
     version: 3,
-    path: "/bare1/"
+ "https://server.flow-works.me/bare"
   },
   tab: {
     title: 'Service',
